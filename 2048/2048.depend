@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1615258470 source:c:\users\thu hien\desktop\thành\2048\2048.cpp
+	<iostream>
+	<SDL.h>
+	<ctime>
+	"my_library.h"
+
+1615258158 source:c:\users\thu hien\desktop\thành\2048\my_library.cpp
+	<iostream>
+	"my_library.h"
+
+1615258027 c:\users\thu hien\desktop\thành\2048\my_library.h
+	<iostream>
+	<SDL.h>
+
+1615258470 source:c:\users\thu hien\onedrive\máy tính\thành\2048\2048.cpp
+	<iostream>
+	<SDL.h>
+	<ctime>
+	"my_library.h"
+
+1615258027 c:\users\thu hien\onedrive\máy tính\thành\2048\my_library.h
+	<iostream>
+	<SDL.h>
+
+1615258158 source:c:\users\thu hien\onedrive\máy tính\thành\2048\my_library.cpp
+	<iostream>
+	"my_library.h"
+
